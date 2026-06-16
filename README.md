@@ -1,4 +1,3 @@
-# Udemy-Clone
 # Udemy Clone Website
 
 A responsive front-end clone of the Udemy website built using HTML and CSS. This project recreates the look and feel of Udemy's homepage, including the navigation bar, categories section, recommended courses, popular topics, and course cards.
